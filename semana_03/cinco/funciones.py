@@ -9,9 +9,9 @@ class Principal():
 
     obj = Video(cod, nom, dur, pre, tip)
 
-    print("El cósigo es ->")
-    print("El nombre del vídeo es ->")
-    print("Su duración es ->")
-    print("El precio es ->")
-    print("El tipo de moneda es ->")
-    print("El precio en dólares es ->")
+    print("El cósigo es ->",cod)
+    print("El nombre del vídeo es ->",nom)
+    print("Su duración es ->",dur)
+    print("El precio es ->",pre)
+    print("El tipo de moneda es ->",tip)
+
